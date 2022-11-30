@@ -1,8 +1,17 @@
+
 .container__menu-bar ul {
   display: flex;
+  justify-content: center;
+  gap: 100px;
+
 }
 
 .container__menu-bar ul li {
   margin-right: 20px;
   list-style: none;
+}
+
+.container__menu-bar  hr{
+  margin-top: 20px;
+  margin-bottom: 5px;
 }
