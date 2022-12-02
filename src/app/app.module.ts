@@ -10,6 +10,7 @@ import { SmallCardComponent } from './components/small-card/small-card.component
 import { HomeComponent } from './pages/home/home.component';
 import { ContentComponent } from './pages/content/content.component';
 import { FooterComponent } from './components/footer/footer.component';
+import { RightBarComponent } from './components/right-bar/right-bar.component';
 
 
 @NgModule({
@@ -22,6 +23,7 @@ import { FooterComponent } from './components/footer/footer.component';
     HomeComponent,
     ContentComponent,
     FooterComponent,
+    RightBarComponent,
 
   ],
   imports: [

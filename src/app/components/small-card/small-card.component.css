@@ -1,6 +1,6 @@
 .container__small-card {
 /*   border: 1px solid white; */
-  width: 700px;
+  max-width: 70vh;
   margin-bottom: 15px;
 }
 

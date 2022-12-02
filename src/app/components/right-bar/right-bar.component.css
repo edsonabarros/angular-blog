@@ -1,0 +1,11 @@
+.container__right-bar{
+  border-left: 1px solid white;
+  padding-left: 20px;
+  height: 100vh;
+  padding-right: 20px;
+  padding-top: 25px;
+}
+
+.rigth-bar__small-card{
+  margin-top: 45px;
+}
