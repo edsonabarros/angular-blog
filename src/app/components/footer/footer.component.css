@@ -1,7 +1,34 @@
 .container__footer{
+  background-color: #15151E;
+  width: 100%;
   height: 100px;
   margin-top: 20px;
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   align-items: center;
+}
+
+.footer__content{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1200px;
+}
+
+p{
+  font-family: formula1;
+  color: white;
+  font-size: 0.8rem;
+}
+
+a{
+  font-family: formula1;
+  color: #e10600;
+  text-decoration: none;
+}
+
+.logo img {
+  width: 60px;
+  height: 60px;
 }

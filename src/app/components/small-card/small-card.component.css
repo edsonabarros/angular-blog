@@ -1,26 +1,22 @@
 .container__small-card {
-/*   border: 1px solid white; */
-  max-width: 70vh;
+  max-width: 300px;
   margin-bottom: 15px;
+  margin-right: 15px;
 }
 
 .container__small-card-content {
   display: flex;
+  flex-direction: column;
 }
 
 .small-card__photo > img {
-  width: 200px;
+  width: 300px;
   min-width: 200px;
-  margin-right: 20px;
 }
 
 .small-card__title {
   display: flex;
-  justify-content: center;
   align-items: center;
-  font-size: 0.7rem;
+  font-size: 0.4rem;
 }
 
-.container__small-card-separator{
-  margin-top: 10px;
-}

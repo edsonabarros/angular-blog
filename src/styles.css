@@ -1,13 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: formula1;
+  src: url(fonts/Formula1-Regular.otf);
+}
+
 *{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  background-color: #111111;
-  color: white;
+  color: black;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 a{
   text-decoration: none;
 }
+
+
+
+
+
